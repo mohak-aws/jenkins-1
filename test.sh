@@ -1,0 +1,3 @@
+echo "Successfull!!!"
+date 
+cal
