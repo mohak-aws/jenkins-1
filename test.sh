@@ -1,3 +1,1 @@
-echo "Successfull!!!"
-date 
-cal
+ecchop "Hey, Love!!"
