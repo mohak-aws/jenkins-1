@@ -1,1 +1,1 @@
-ecchop "Hey Dipti, I  LOB  U!!"
+ecchop "Hey"
