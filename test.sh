@@ -1,1 +1,1 @@
-ecchop "Hey"
+echo "Hey"
